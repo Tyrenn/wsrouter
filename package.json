@@ -1,6 +1,6 @@
 {
   "name": "@tyren/wsrouter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express like router for ws Websockets",
   "main": "index.js",
   "scripts": {
