@@ -30,15 +30,15 @@ proto.ws = function(fn){
         var arg = fn;
     
         while (Array.isArray(arg) && arg.length !== 0) {
-          arg = arg[0];
+            arg = arg[0];
         }
     
         // first arg is the path
         if (typeof arg !== 'function') {
-          offset = 1;
-          path = fn;
+            offset = 1;
+            path = fn;
         }
-      }
+    }
 
     var handlers = flatten(Array.prototype.slice.call(arguments, offset));
 

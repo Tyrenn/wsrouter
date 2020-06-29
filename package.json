@@ -4,7 +4,7 @@
   "description": "Express like router for ws Websockets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no test specified\""
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,11 @@
     "socket"
   ],
   "author": "Guillaume Vailland",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Tyrenn/wsrouter/issues"
   },
-  "homepage": "https://github.com/Tyrenn/wsrouter#readme"
+  "homepage": "https://github.com/Tyrenn/wsrouter#readme",
+  "dependencies": {
+  }
 }
