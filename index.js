@@ -2,9 +2,7 @@
 
 const http = require('http');
 const ws = require('ws');
-const WSRoute = require("./wsRoute");
 const WSRouter = require("./wsRouter");
-const {flatten} = require('array-flatten');
 const { v4: uuidv4 } = require('uuid');
 
 module.exports = function(app, httpServer) {

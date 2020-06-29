@@ -27,5 +27,10 @@
   },
   "homepage": "https://github.com/Tyrenn/wsrouter#readme",
   "dependencies": {
+    "array-flatten": "^3.0.0",
+    "path-to-regexp": "^6.1.0",
+    "setprototypeof": "^1.2.0",
+    "uuid": "^8.1.0",
+    "ws": "^7.3.0"
   }
 }
