@@ -1,0 +1,29 @@
+{
+  "name": "wsrouter",
+  "version": "1.0.0",
+  "description": "Express like router for ws Websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrenn/wsrouter.git"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "route",
+    "websocket",
+    "ws",
+    "routing",
+    "realtime",
+    "socket"
+  ],
+  "author": "Guillaume Vailland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyrenn/wsrouter/issues"
+  },
+  "homepage": "https://github.com/Tyrenn/wsrouter#readme"
+}
